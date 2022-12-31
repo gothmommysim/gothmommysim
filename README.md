@@ -1,12 +1,31 @@
-
-# Hi!!! 🙋🏽‍♀️👋🏽 
-## 💻 I'm Sim Sealy, a computer engineering graduate.
+# Hey there! 😊
+## I'm Sim Sealy, a computer engineering graduate and aspiring game developer 🎮
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sim-sealy/)
-- Currently: Developing my skills while working on independent game projects. 🎮
-- Recently: Completed bachelor's degree from The Ohio State University. 🎓
-- Learning: Unreal Engine, Kotlin, and React for JS 📝
 
-I am passionate about game development and have experience in machine learning and PCB design. 
-I am proficient in C# and have extensive experience with languages such as C++, C, Python, and Java. 
-I am skilled in using tools like Unity, Android Studio, Jupyter, Arduino IDE, and KiCad.
+I'm always looking to improve my skills and work on exciting projects. Currently, I am focused on learning the following:
+- Unreal Engine 🎮
+- Kotlin 📱
+- React for JS 💻
+
+## Languages 💬
+
+| Language        | Proficiency         |
+| -------------  |:-------------:|
+| C#              | Proficient      |
+| C++             | Experienced     |
+| C               | Experienced     |
+| Python          | Experienced     |
+| Java            | Experienced     |
+
+## Tools 🔧
+
+| Tool            | Proficiency         |
+| -------------  |:-------------:|
+| Unity           | Proficient     |
+| Android Studio  | Experienced     |
+| Jupyter         | Experienced     |
+| Arduino IDE     | Experienced     |
+| KiCad           | Experienced     |
+
+I am passionate about game development and have experience in machine learning and PCB design. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games). 🌎
