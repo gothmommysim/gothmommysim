@@ -28,4 +28,4 @@ I'm always looking to improve my skills and work on exciting projects. Currently
 | Arduino IDE     | Experienced     |
 | KiCad           | Experienced     |
 
-I am passionate about game development and have experience in machine learning. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games). 🌎
+I am passionate about game development and have experience in machine learning. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games)! 🌎
