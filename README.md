@@ -1,5 +1,5 @@
 # Hey there! 😊
-## I'm Sim Sealy, a computer engineering graduate and aspiring game developer 🎮
+## I'm Sim, a computer engineering graduate and aspiring game developer 🎮
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sim-sealy/)
 
