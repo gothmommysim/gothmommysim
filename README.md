@@ -26,6 +26,6 @@ I'm always looking to improve my skills and work on exciting projects. Currently
 | Android Studio  | Experienced     |
 | Jupyter         | Experienced     |
 | Arduino IDE     | Experienced     |
-| KiCad           | Experienced     |
+| Blender         | Experienced     |
 
 I am passionate about game development and have experience in machine learning. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games)! 🌎
