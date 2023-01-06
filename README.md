@@ -3,7 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sim-sealy/)
 
-I'm always looking to improve my skills and work on exciting projects. Currently, I am focused on learning the following:
+I have a passion for game and app development and I'm always looking to improve my skills and work on exciting projects. Currently, I am focused on learning the following:
 - Unreal Engine 🎮
 - Kotlin 📱
 - React for JS 💻
@@ -17,15 +17,18 @@ I'm always looking to improve my skills and work on exciting projects. Currently
 | C               | Experienced     |
 | Python          | Experienced     |
 | Java            | Experienced     |
+| JavaScript      | Experienced     |
+| Kotlin          | Basic     |
 
 ## Tools 🔧
 
 | Tool            | Proficiency         |
 | -------------  |:-------------:|
 | Unity           | Proficient     |
+| Blender         | Experienced     |
 | Android Studio  | Experienced     |
 | Jupyter         | Experienced     |
 | Arduino IDE     | Experienced     |
-| Blender         | Experienced     |
+
 
 I am passionate about game development and have experience in machine learning. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games)! 🌎
