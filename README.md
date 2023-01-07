@@ -3,7 +3,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sim-sealy/)
 
-I have a passion for game and app development and I'm always looking to improve my skills and work on exciting projects. Currently, I am focused on learning the following:
+I have a passion for game and app development and I'm always looking to improve my skills and work on exciting projects. Currently, I am focused on refining my expertise in the following:
 - Unreal Engine 🎮
 - Kotlin 📱
 - React for JS 💻
