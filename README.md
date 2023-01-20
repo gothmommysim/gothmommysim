@@ -13,10 +13,10 @@ I have a passion for game and app development and I'm always looking to improve 
 | Language        | Proficiency         |
 | -------------  |:-------------:|
 | C#              | Proficient      |
+| Java            | Proficient      |
 | C++             | Experienced     |
 | C               | Experienced     |
 | Python          | Experienced     |
-| Java            | Proficient      |
 | JavaScript      | Experienced     |
 | Kotlin          | Basic     |
 
