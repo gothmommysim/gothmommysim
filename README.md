@@ -16,7 +16,7 @@ I have a passion for game and app development and I'm always looking to improve 
 | C++             | Experienced     |
 | C               | Experienced     |
 | Python          | Experienced     |
-| Java            | Experienced     |
+| Java            | Proficient      |
 | JavaScript      | Experienced     |
 | Kotlin          | Basic     |
 
