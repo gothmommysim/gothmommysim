@@ -12,26 +12,26 @@ Currently, I am focused on refining my expertise in the following:
 
 ## Languages 💬
 
-| Language        | Proficiency         |
-| -------------  |:-------------:|
-| C#              | Proficient      |
-| Java            | Proficient      |
-| C++             | Experienced     |
-| C               | Experienced     |
-| Python          | Experienced     |
-| JavaScript      | Intermediate    |
-| Kotlin          | Basic     |
+| Language       | Proficiency   ||
+| -------------  |:-------------:|---|
+| C#             | Proficient    |🟢🟢🟢🟢🟢|
+| Java           | Proficient    |🟢🟢🟢🟢🟢|
+| C++            | Advanced      |🟡🟡🟡🟡|
+| C              | Advanced      |🟡🟡🟡🟡|
+| Python         | Advanced      |🟡🟡🟡🟡|
+| JavaScript     | Intermediate  |🟠🟠🟠|
+| Kotlin         | Basic         |🔴🔴|
 
 ## Tools 🔧
 
-| Tool            | Proficiency         |
-| -------------  |:-------------:|
-| Unity           | Proficient     |
-| Blender         | Experienced     |
-| Android Studio  | Experienced     |
-| Jupyter         | Experienced     |
-| Arduino IDE     | Experienced     |
-| React           | Intermediate    |
+| Tool           | Proficiency   ||
+| -------------  |:-------------:|---|
+| Unity          | Proficient    |🟢🟢🟢🟢🟢|
+| Blender        | Advanced      |🟡🟡🟡🟡|
+| Android Studio | Advanced      |🟡🟡🟡🟡|
+| Jupyter        | Advanced      |🟡🟡🟡🟡|
+| Arduino IDE    | Advanced      |🟡🟡🟡🟡|
+| React          | Intermediate  |🟠🟠🟠|
 
 
 I am passionate about game development and have experience in machine learning. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games)! 🌎
