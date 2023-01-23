@@ -20,6 +20,7 @@ Currently, I am focused on refining my expertise in the following:
 | C              | Advanced      |🟡🟡🟡🟡|
 | Python         | Advanced      |🟡🟡🟡🟡|
 | JavaScript     | Intermediate  |🟠🟠🟠|
+| SQL            | Basic         |🔴🔴|
 | Kotlin         | Basic         |🔴🔴|
 
 ## Tools 🔧
