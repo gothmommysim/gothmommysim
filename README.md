@@ -5,7 +5,7 @@
 
 I'm a computer engineering graduate with a deep love for games and game development. When I'm not working on my projects, I love immersing myself in games and experiencing new worlds. 
 
-One of my all-time favorites is Fortnite, I love the variety of skins (especially the collabs) and can easily get lost for hours playing with friends. My goal is to create games that not only provide endless entertainment, but also foster a sense of community among players. Some of my favorite memories from growing up were playing multiplayer games with friends and meeting new ones.
+One of my all-time favorites is Fortnite, I love the variety of skins (especially the collabs) and can easily get lost for hours playing with friends. Some of my favorite memories from growing up were playing multiplayer games with friends and meeting new ones. My goal is to create games that not only provide endless entertainment, but also foster a sense of community among players. 
 
 I'm always looking to improve my skills and work on exciting projects!
 
