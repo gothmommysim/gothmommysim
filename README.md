@@ -3,7 +3,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sim-sealy/)
 
-I have a passion for game and app development and I'm always looking to improve my skills and work on exciting projects. 
+I'm a computer engineering graduate with a deep love for games and game development. When I'm not working on my projects, I love immersing myself in games and experiencing new worlds. 
+
+One of my all-time favorites is Fortnite, I love the variety of skins (especially the collabs) and can easily get lost for hours playing with friends. My goal is to create games that not only provide endless entertainment, but also foster a sense of community among players. Some of my favorite memories from growing up were playing multiplayer games with friends and meeting new ones.
+
+I'm always looking to improve my skills and work on exciting projects!
 
 Currently, I am focused on refining my expertise in the following:
 - Unreal Engine 🎮
@@ -33,6 +37,3 @@ Currently, I am focused on refining my expertise in the following:
 | Jupyter        | Advanced      |🟡🟡🟡🟡|
 | Arduino IDE    | Advanced      |🟡🟡🟡🟡|
 | React          | Intermediate  |🟠🟠🟠|
-
-
-I am passionate about game development and have experience in machine learning. I just graduated from The Ohio State University and am ready to take on the world (or at least make some sick games)! 🌎
