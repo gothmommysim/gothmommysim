@@ -10,6 +10,7 @@ One of my all-time favorites is Fortnite, I love the variety of skins (especiall
 I'm always looking to improve my skills and work on exciting projects!
 
 Currently, I am focused on refining my expertise in the following:
+- Full stack development in React.js 💅🏽
 - Competitive programming (Leetcode, HackerRank) 🤖
 - Unreal Engine 🎮
 
@@ -22,8 +23,8 @@ Currently, I am focused on refining my expertise in the following:
 | C++            | Advanced      |🟡🟡🟡🟡|
 | C              | Advanced      |🟡🟡🟡🟡|
 | Python         | Advanced      |🟡🟡🟡🟡|
+| JavaScript     | Advanced      |🟡🟡🟡🟡|
 | SQL            | Intermediate  |🟠🟠🟠|
-| JavaScript     | Intermediate  |🟠🟠🟠|
 | Kotlin         | Basic         |🔴🔴|
 
 ## Tools 🔧
@@ -32,8 +33,8 @@ Currently, I am focused on refining my expertise in the following:
 | -------------  |:-------------:|---|
 | Unity          | Proficient    |🟢🟢🟢🟢🟢|
 | Blender        | Advanced      |🟡🟡🟡🟡|
-| Android Studio | Advanced      |🟡🟡🟡🟡|
+| React.js       | Advanced      |🟡🟡🟡🟡|
 | Jupyter        | Advanced      |🟡🟡🟡🟡|
 | Arduino IDE    | Advanced      |🟡🟡🟡🟡|
-| React          | Intermediate  |🟠🟠🟠|
+| Android Studio | Intermediate  |🟠🟠🟠|
 | Unreal Engine  | Basic         |🔴🔴|
