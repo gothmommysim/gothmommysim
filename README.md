@@ -21,7 +21,7 @@ Currently, I am focused on refining my expertise in the following:
 | -------------  |:-------------:|---|
 | C#             | Proficient    |🟢🟢🟢🟢🟢|
 | C++            | Proficient    |🟢🟢🟢🟢🟢|
-| C              | Proficient    |🟢🟢🟢🟢🟢|
+| C              | Proficient    |🟡🟡🟡🟡|
 | Python         | Advanced      |🟡🟡🟡🟡|
 | Java           | Proficient    |🟡🟡🟡🟡|
 | JavaScript     | Advanced      |🟡🟡🟡🟡|
