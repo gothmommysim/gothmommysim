@@ -28,7 +28,7 @@ Currently, I am focused on refining my expertise in the following:
 | SQL            | Intermediate  |🟠🟠🟠|
 | Kotlin         | Basic         |🔴🔴|
 
-My strongest languages are C#, C++, and C, with a focus on C# for game development and on C++ and C through my experience in embedded engineering working with microcontrollers.
+My strongest languages are C#, C++, and C. I've developed skills in C# for game development and in C++ and C through my experience in embedded engineering working with microcontrollers.
 
 
 ## Tools 🔧
