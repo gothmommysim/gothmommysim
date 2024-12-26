@@ -10,9 +10,7 @@ One of my all-time favorites is Fortnite, I love the variety of skins (especiall
 I'm always looking to improve my skills and work on exciting projects!
 
 Currently, I am focused on refining my expertise in the following:
-- Unreal Engine 🎮
-- Competitive programming (Leetcode, HackerRank) 🤖
-- Full stack development in React.js 💅🏽
+- Game development projects 🎮
 
 
 ## Languages 💬
