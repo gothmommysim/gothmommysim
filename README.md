@@ -1,9 +1,9 @@
-# Hey there! 😊 🏳️‍⚧️ 🏳️‍🌈
-## I'm Sim, a computer engineering graduate and aspiring game developer 🎮
+# Hey there! 😊
+## I'm Sim. I'm a software developer and technical artist 🎮
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sim-sealy/)
 
-I'm a computer engineering graduate with a deep love for games and game development. When I'm not working on my projects, I love immersing myself in games and experiencing new worlds.
+I have a deep love for games and game development. When I'm not working on my projects, I love immersing myself in games and experiencing new worlds.
 
 One of my all-time favorites is Fortnite, I love the variety of skins (especially the collabs) and can easily get lost for hours playing with friends. Some of my favorite memories from growing up were playing multiplayer games with friends and meeting new ones. My goal is to create games that not only provide endless entertainment, but also foster a sense of community among players. 
 
@@ -20,6 +20,7 @@ Currently, I am focused on refining my expertise in the following:
 | Language       | Proficiency   ||
 | -------------  |:-------------:|---|
 | C#             | Proficient    |🟢🟢🟢🟢🟢|
+| Ruby           | Proficient    |🟢🟢🟢🟢🟢|
 | C++            | Proficient    |🟢🟢🟢🟢🟢|
 | C              | Advanced      |🟡🟡🟡🟡|
 | Python         | Advanced      |🟡🟡🟡🟡|
@@ -28,7 +29,7 @@ Currently, I am focused on refining my expertise in the following:
 | SQL            | Intermediate  |🟠🟠🟠|
 | Kotlin         | Basic         |🔴🔴|
 
-My strongest languages are C#, C++, and C. I've developed skills in C# for game development and in C++ and C through my experience in embedded engineering working with microcontrollers.
+My strongest languages are C#, Ruby, and C++. I've developed skills in C# for game development, Ruby through test automation and in C++ and C through my educational experience in embedded engineering.
 
 
 ## Tools 🔧
@@ -36,6 +37,7 @@ My strongest languages are C#, C++, and C. I've developed skills in C# for game 
 | Tool           | Proficiency   ||
 | -------------  |:-------------:|---|
 | Unity          | Proficient    |🟢🟢🟢🟢🟢|
+| Rubymine       | Proficient    |🟢🟢🟢🟢🟢|
 | Blender        | Advanced      |🟡🟡🟡🟡|
 | React.js       | Advanced      |🟡🟡🟡🟡|
 | Jupyter        | Advanced      |🟡🟡🟡🟡|
@@ -43,4 +45,4 @@ My strongest languages are C#, C++, and C. I've developed skills in C# for game 
 | Android Studio | Intermediate  |🟠🟠🟠|
 | Unreal Engine  | Basic         |🔴🔴|
 
-I'm really comfortable using game engines like Unity and some Unreal, and I love to learn new tools and tech to improve my game development skills. I'm super resourceful, adaptable, and have a sharp eye for detail. I'm comfortable with creating game assets using Blender, such as simple hard surface modeling.
+I'm really comfortable using game engines like Unity and some Unreal, and I love to learn new tools and tech to improve my game development skills. I'm super resourceful, adaptable, and have a sharp eye for detail. I'm comfortable with creating game assets using Photoshop and Blender, such as textures and simple hard surface modeling.
